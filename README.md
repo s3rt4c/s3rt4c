@@ -41,4 +41,3 @@ I am building a career in offensive security through hands-on testing, security 
 
 - GitHub: [@s3rt4c](https://github.com/s3rt4c)
 
-> Interested in offensive security, penetration-testing, and application-security opportunities where I can continue learning and contribute through careful, evidence-based work.
