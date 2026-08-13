@@ -1,16 +1,44 @@
-## Hi there 👋
+# s3rt4c | Offensive Security
 
-<!--
-**s3rt4c/s3rt4c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+penetration testing  •  web application security  •  Active Directory security
+```
 
-Here are some ideas to get you started:
+I am building a career in offensive security through hands-on testing, security research, and practical tooling. My background includes a cybersecurity internship and a validated DOM-based XSS finding recognized by TU Delft.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+- Focused on developing practical penetration-testing skills across web applications, networks, and Active Directory environments.
+- Regularly train through [Hack The Box](https://www.hackthebox.com/), [TryHackMe](https://tryhackme.com/), and the [PortSwigger Web Security Academy](https://portswigger.net/web-security).
+- Build security and data projects with Python to turn technical concepts into demonstrable work.
+
+## Current Focus
+
+- Active Directory enumeration, attack paths, and common misconfigurations
+- End-to-end penetration-testing methodology and reporting
+- Web application testing and vulnerability research
+- Python-based security automation
+
+## Security Interests
+
+**Primary:** Offensive Security · Penetration Testing · Web Application Security · Active Directory Security
+
+**Also exploring:** Security Automation · Network Security · Security Research · Python
+
+## Selected Projects
+
+| Project | What it demonstrates | Link |
+| --- | --- | --- |
+| **ThreatClock** | A threat-intelligence and data engineering project focused on analyzing cybersecurity threat data. Further technical details and documentation are being prepared. | [Repository](https://github.com/s3rt4c/threatclock) |
+| **Network Threat Visualization** | Originated from cybersecurity internship work; combines Snort 3, Python, and Neo4j for graph-based visualization and correlation of network security alerts. | [Repository](https://github.com/s3rt4c/neo4j_project) |
+
+## Achievements
+
+- Reported a validated **DOM-based cross-site scripting (XSS)** vulnerability and was included in the **TU Delft Hall of Fame**.
+- Completed a **cybersecurity internship at Cyberwise**, gaining experience in a professional security environment.
+
+## Contact
+
+- GitHub: [@s3rt4c](https://github.com/s3rt4c)
+
+> Interested in offensive security, penetration-testing, and application-security opportunities where I can continue learning and contribute through careful, evidence-based work.
