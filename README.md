@@ -1,33 +1,40 @@
 <div align="center">
 
-# 👋 Hi, I'm Sertaç Özdemir
+# Hi 👋, I'm Sertaç Özdemir
 
 ### Management Information Systems Student • Offensive Security
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Offensive+Security;Web+Application+Security;Active+Directory+Security;Security+Research;Security+Automation+with+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Offensive+Security;Web+Application+Security;Active+Directory+Security;Security+Research;Python+Security+Automation)](https://git.io/typing-svg)
 
 <p>
   <img src="https://img.shields.io/badge/Offensive-Security-0D1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
   <img src="https://img.shields.io/badge/Web-Application%20Security-0D1117?style=for-the-badge&logo=burpsuite&logoColor=FF6633" />
   <img src="https://img.shields.io/badge/Active%20Directory-Security-0D1117?style=for-the-badge&logo=windows&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/Python-Security%20Automation-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
 </p>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a **Management Information Systems student focused on offensive security**, building practical experience through security research, penetration-testing labs, cybersecurity projects, and hands-on technical work.
+I'm a **Management Information Systems student focused on offensive security**, developing practical experience through penetration-testing labs, security research, internships, and security-oriented software projects.
 
-My background includes a **cybersecurity internship at Cyberwise** and a validated **DOM-based Cross-Site Scripting vulnerability recognized by TU Delft**, resulting in inclusion in the university's Hall of Fame.
+My primary interests are **Web Application Security, Active Directory, Penetration Testing, and Security Research**.
 
-I am currently developing deeper skills in **web application security, Active Directory security, penetration-testing methodology, technical reporting, and Python-based security automation**.
+Alongside offensive security, I use **Python and data-oriented technologies** to automate security workflows, process security data, and build practical security tools.
+
+### A few things about my background
+
+- 🎯 Reported a validated **DOM-based Cross-Site Scripting (XSS)** vulnerability and was included in the **TU Delft Hall of Fame**
+- 💼 Completed cybersecurity internships at **Cyberwise** and **Sakarya University of Applied Sciences (SUBÜ) IT Department**
+- 🐍 Build security-oriented tools and projects with **Python**
+- 🧪 Regularly practice through **Hack The Box, TryHackMe, PortSwigger Web Security Academy, and local lab environments**
+- 📚 Currently developing deeper skills in **Active Directory security, web application testing, penetration-testing methodology, and technical reporting**
 
 ---
 
-## 🧭 What I Focus On
+## 🧭 Security Focus
 
 <table>
 <tr>
@@ -35,14 +42,13 @@ I am currently developing deeper skills in **web application security, Active Di
 
 ### ⚔️ Offensive Security
 
-Hands-on penetration testing across web applications, Windows environments, networks, and Active Directory labs.
+My main career direction.
 
-**Focus areas**
-- Web Application Security
-- Active Directory
-- Enumeration
+- Web Application Penetration Testing
+- Active Directory Security
+- Network Enumeration
+- Windows & Linux Privilege Escalation
 - Attack Path Analysis
-- Privilege Escalation
 - Penetration Testing Methodology
 
 </td>
@@ -51,13 +57,15 @@ Hands-on penetration testing across web applications, Windows environments, netw
 
 ### 🔬 Security Research
 
-Understanding how vulnerabilities work, validating security issues, and documenting technical findings.
+Understanding vulnerabilities beyond simply reproducing exploits.
 
-**Proof of work**
-- Validated DOM-based XSS
-- TU Delft Hall of Fame
-- Web security research
-- Technical vulnerability analysis
+- Web vulnerability research
+- Vulnerability validation
+- Root-cause analysis
+- Technical documentation
+- Security research notes
+
+**Recognition:** TU Delft Hall of Fame
 
 </td>
 </tr>
@@ -65,30 +73,29 @@ Understanding how vulnerabilities work, validating security issues, and document
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Security Engineering & Automation
+### ⚙️ Security Automation
 
-Using programming and security tooling to process, correlate, visualize, and automate security-related data.
+Using programming to make security workflows more efficient.
 
-**Technologies**
-- Python
-- Snort 3
-- Neo4j
-- Network security data
-- Security automation
+- Python scripting
+- Security data processing
+- Reconnaissance automation
+- Parsing & correlation
+- Security tooling
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🛰️ Threat Intelligence & Data
+### 🛰️ Security Data & Threat Intelligence
 
-Exploring how cybersecurity threat data can be collected, structured, analyzed, and transformed into useful security information.
+Exploring the intersection of security and data.
 
-**Project**
-- ThreatClock
-- Threat data analysis
-- Data engineering
-- Cybersecurity intelligence workflows
+- Threat intelligence
+- Threat data processing
+- Network security data
+- Graph-based analysis
+- Security visualization
 
 </td>
 </tr>
@@ -96,28 +103,75 @@ Exploring how cybersecurity threat data can be collected, structured, analyzed, 
 
 ---
 
-## 🎯 Current Focus
+# 💼 Cybersecurity Experience
+
+## Cyberwise — Cybersecurity Intern
+
+My first cybersecurity internship focused on working with network security data and security visualization technologies.
+
+One of my main projects combined:
 
 ```text
-[+] Active Directory enumeration & attack paths
-[+] Web application vulnerability research
-[+] End-to-end penetration testing methodology
-[+] Windows & Linux security labs
-[+] Python security automation
-[+] Technical reporting
+Snort 3 Security Alerts
+          ↓
+     Python Processing
+          ↓
+        Neo4j
+          ↓
+Graph-Based Security Analysis
+          ↓
+   Threat Visualization
+```
+
+The project explored relationships between **IP addresses, MAC addresses, devices, and security alerts** using graph-based data structures and visualization.
+
+**Technologies:** `Snort 3` · `Python` · `Neo4j` · `NeoDash`
+
+---
+
+## Sakarya University of Applied Sciences (SUBÜ) — IT Department
+
+After Cyberwise, I continued gaining practical cybersecurity experience at the **SUBÜ Information Technology Department**.
+
+My work included hands-on exposure to areas such as:
+
+- Web application security testing
+- Network reconnaissance and enumeration
+- Nmap-based security assessment
+- Vulnerability analysis
+- Internal web application / portal testing
+- Network lab environments
+- GNS3-based security and networking practice
+
+This experience helped strengthen my understanding of security assessment workflows in real IT environments.
+
+---
+
+# 🏆 Security Recognition
+
+## 🎯 TU Delft Hall of Fame
+
+Reported a validated **DOM-based Cross-Site Scripting (XSS)** vulnerability affecting a TU Delft web environment.
+
+The vulnerability was acknowledged and resulted in inclusion in the university's **Hall of Fame**.
+
+```text
+Vulnerability Type : DOM-Based Cross-Site Scripting
+Status             : Validated
+Recognition        : TU Delft Hall of Fame
 ```
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🕒 ThreatClock
+## 🕒 ThreatClock
 
-**Cybersecurity Threat Intelligence & Data Engineering**
+### Cybersecurity Threat Intelligence & Data Engineering
 
-A cybersecurity project focused on analyzing and processing threat data and transforming it into structured, useful security information.
+ThreatClock is a cybersecurity-oriented project focused on processing and analyzing threat-related data and transforming it into structured security information.
 
-The project represents my interest in the intersection of:
+The project reflects my interest in combining:
 
 ```text
 Cybersecurity
@@ -133,57 +187,49 @@ Python
 
 ---
 
-### 🕸️ Network Threat Visualization
+## 🕸️ Network Threat Visualization
 
-**Snort 3 • Python • Neo4j**
+### Snort 3 • Python • Neo4j
 
-A network security visualization project originating from my cybersecurity internship work at **Cyberwise**.
+A security visualization project originating from my internship work at **Cyberwise**.
 
-The project combines:
+The project processes network security alerts and represents relationships between security entities using a graph database.
 
 ```text
-Snort 3 alerts
+Security Alert
       ↓
-Python processing
+Python Parser
       ↓
-Neo4j graph relationships
+Data Processing
       ↓
-Network threat visualization & correlation
+Neo4j Graph
+      ↓
+Relationship Analysis
+      ↓
+Security Visualization
 ```
-
-The goal is to explore relationships between security alerts, IP addresses, devices, and other network entities using graph-based analysis.
 
 [![Network Threat Visualization](https://img.shields.io/badge/View%20Repository-Network%20Threat%20Visualization-21262D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s3rt4c/neo4j_project)
 
 ---
 
-## 🏆 Security Achievements
+# 🎯 Current Offensive Security Focus
 
-<table>
-<tr>
-<td width="50%" valign="top">
+```text
+[+] Active Directory enumeration
+[+] Active Directory attack paths
+[+] Web application vulnerability research
+[+] End-to-end penetration testing methodology
+[+] Windows & Linux privilege escalation
+[+] Python security automation
+[+] Technical reporting
+```
 
-### 🎯 TU Delft Hall of Fame
-
-Reported a validated **DOM-based Cross-Site Scripting (XSS)** vulnerability and was included in the **TU Delft Hall of Fame**.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💼 Cyberwise
-
-Completed a cybersecurity internship in a professional security environment.
-
-Worked on a security visualization project combining **Snort 3, Python, and Neo4j**.
-
-</td>
-</tr>
-</table>
+I am currently working toward turning more of my hands-on lab work into **high-quality public technical write-ups**.
 
 ---
 
-## 🧰 Tools I Use
+# 🧰 Security Tools
 
 <div align="center">
 
@@ -196,19 +242,38 @@ Worked on a security visualization project combining **Snort 3, Python, and Neo4
 
 </div>
 
+### Other tools I regularly work with
+
+```text
+Responder        Mimikatz        Hashcat
+ffuf             Gobuster        Nuclei
+tcpdump          Zeek            Splunk
+Sysmon           Wazuh           sqlmap
+```
+
 ---
 
-## 💻 Technologies
+# 💻 Technologies
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,bash,linux,windows,git,docker,vscode,cs,php,js&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,bash,linux,windows,git,docker,js,php,cs&theme=dark&perline=9)](https://skillicons.dev)
 
 </div>
 
+### Core technologies
+
+```text
+Python       Bash       Linux
+Windows      Git        Docker
+
+JavaScript   PHP        C#
+SQL          Neo4j
+```
+
 ---
 
-## 🧪 Hands-on Security Practice
+# 🧪 Hands-on Security Practice
 
 <div align="center">
 
@@ -220,20 +285,59 @@ Worked on a security visualization project combining **Snort 3, Python, and Neo4
 
 </div>
 
-I use hands-on labs to strengthen practical experience in:
+My hands-on practice focuses primarily on:
 
 ```text
 Web Application Security
-Active Directory
-Windows & Linux Privilege Escalation
+          │
+Active Directory Security
+          │
+Windows / Linux Privilege Escalation
+          │
 Network Enumeration
+          │
 Vulnerability Research
-Penetration Testing
+          │
+Penetration Testing Methodology
 ```
 
 ---
 
-## 📊 GitHub Activity
+# 📝 What I'm Currently Building
+
+My next goal is to turn more of my hands-on work into public **proof-of-work**.
+
+### Offensive Security Write-ups
+
+I am preparing technical write-ups covering selected lab environments and security exercises where public disclosure is permitted.
+
+Planned areas include:
+
+- 🌐 Web Application Security
+- 🪟 Windows / Active Directory
+- 🐧 Linux Privilege Escalation
+- 🌍 Network Security
+- 🔬 Vulnerability Research
+
+The focus will be on documenting not just **what worked**, but also:
+
+```text
+Enumeration
+    ↓
+Reasoning
+    ↓
+Attack Path
+    ↓
+Validation
+    ↓
+Impact
+    ↓
+Lessons Learned
+```
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
 
@@ -243,23 +347,23 @@ Penetration Testing
 
 ---
 
-## 🗺️ Current Path
+# 🗺️ Current Direction
 
 ```text
-                    Offensive Security
-                           │
-            ┌──────────────┼──────────────┐
-            │              │              │
-      Web Security   Active Directory   Research
-            │              │              │
-            └──────────────┼──────────────┘
-                           │
-               Security Automation
-                           │
-                        Python
+                       Offensive Security
+                              │
+              ┌───────────────┼───────────────┐
+              │               │               │
+        Web Security    Active Directory   Research
+              │               │               │
+              └───────────────┼───────────────┘
+                              │
+                     Security Automation
+                              │
+                            Python
 ```
 
-My goal is to combine **strong security fundamentals, hands-on experience, security research, and automation** while continuously improving as an offensive security practitioner.
+My goal is to become a security professional capable of not only identifying vulnerabilities, but also **understanding systems, explaining risk, automating repetitive work, and clearly documenting technical findings**.
 
 ---
 
@@ -267,12 +371,6 @@ My goal is to combine **strong security fundamentals, hands-on experience, secur
 
 ### 🔐 Understand the system. Find the weakness. Verify the impact.
 
-<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=s3rt4c&style=for-the-badge&color=21262d)
-
-<br><br>
-
-**Thanks for visiting my profile.**
 
 </div>
