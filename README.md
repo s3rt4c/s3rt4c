@@ -42,6 +42,8 @@ The project processed network security alerts and explored relationships between
 
 `Snort 3 → Python → Neo4j → NeoDash`
 
+Also gained hands-on experience with **GNS3-based network and security lab environments**.
+
 ---
 
 ### Sakarya University of Applied Sciences (SUBÜ) — IT Department
@@ -53,8 +55,6 @@ Worked with:
 - Web application security testing
 - Network reconnaissance and enumeration
 - Vulnerability analysis
-- Internal web application / portal testing
-- GNS3-based network and security labs
 
 ---
 
@@ -155,6 +155,5 @@ I use hands-on labs to improve practical offensive security methodology across *
 
 ### 🔐 Understand the system. Find the weakness. Verify the impact.
 
-![Profile Views](https://komarev.com/ghpvc/?username=s3rt4c&style=for-the-badge&color=21262d)
 
 </div>
