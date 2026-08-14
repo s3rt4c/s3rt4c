@@ -20,55 +20,17 @@
 
 I'm a **Management Information Systems student focused on offensive security**, with hands-on experience in web application security, Active Directory, security research, and Python-based security projects.
 
-My background includes cybersecurity internships at **Cyberwise** and the **Sakarya University of Applied Sciences (SUBÜ) IT Department**, as well as a validated **DOM-based Cross-Site Scripting (XSS)** finding recognized by **TU Delft**.
-
-I currently focus on:
-
-- ⚔️ Web Application Security
-- 🪟 Active Directory Security
-- 🔬 Vulnerability Research
-- 🐍 Python Security Automation
-- 📝 Penetration Testing Methodology & Reporting
+My background includes cybersecurity internships at **Cyberwise** and **Sakarya University of Applied Sciences (SUBÜ)**, as well as a validated **DOM-based XSS finding recognized by TU Delft**.
 
 ---
 
-## 💼 Cybersecurity Experience
+## 🎯 Current Focus
 
-### Cyberwise — Cybersecurity Intern
-
-Worked on a network security visualization project combining **Snort 3, Python, Neo4j, and NeoDash**.
-
-The project processed network security alerts and explored relationships between **IP addresses, MAC addresses, devices, and security events** using graph-based analysis.
-
-`Snort 3 → Python → Neo4j → NeoDash`
-
-Also gained hands-on experience with **GNS3-based network and security lab environments**.
-
----
-
-### Sakarya University of Applied Sciences (SUBÜ) — IT Department
-
-Continued gaining hands-on cybersecurity experience in an institutional IT environment after my Cyberwise internship.
-
-Worked with:
-
-- Web application security testing
-- Network reconnaissance and enumeration
-- Vulnerability analysis
-
----
-
-## 🏆 Security Recognition
-
-### 🎯 TU Delft Hall of Fame
-
-Reported a validated **DOM-based Cross-Site Scripting (XSS)** vulnerability to TU Delft and was included in the university's **Hall of Fame**.
-
-| | |
-|---|---|
-| **Vulnerability** | DOM-Based Cross-Site Scripting |
-| **Status** | Validated |
-| **Recognition** | TU Delft Hall of Fame |
+- Active Directory enumeration & attack paths
+- Web application vulnerability research
+- End-to-end penetration testing methodology
+- Python security automation
+- Technical reporting
 
 ---
 
@@ -88,23 +50,9 @@ A cybersecurity project focused on processing and analyzing threat-related data 
 
 **Snort 3 • Python • Neo4j**
 
-A graph-based network security project originating from my internship work at **Cyberwise**.
-
-It processes network security alerts and visualizes relationships between security entities for easier analysis and correlation.
+A graph-based network security project originating from my internship work at **Cyberwise**, focused on processing security alerts and visualizing relationships between network entities.
 
 [![Network Threat Visualization](https://img.shields.io/badge/View%20Repository-Network%20Threat%20Visualization-21262D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s3rt4c/neo4j_project)
-
----
-
-## 🎯 Current Focus
-
-- Active Directory enumeration & attack paths
-- Web application vulnerability research
-- End-to-end penetration testing methodology
-- Python security automation
-- Technical reporting
-
-I am also turning selected hands-on lab work into **high-quality public security write-ups** where disclosure is permitted.
 
 ---
 
@@ -138,6 +86,20 @@ I am also turning selected hands-on lab work into **high-quality public security
 </div>
 
 I use hands-on labs to improve practical offensive security methodology across **web applications, Active Directory, Windows/Linux environments, and network security**.
+
+---
+
+## 📝 Offensive Security Write-ups
+
+I'm turning selected hands-on lab work into **public technical write-ups** where disclosure is permitted.
+
+The focus is on documenting:
+
+```text
+Enumeration → Reasoning → Attack Path → Validation → Lessons Learned
+```
+
+> Write-up repository coming soon.
 
 ---
 
