@@ -54,24 +54,6 @@ A graph-based network security project originating from my internship work at **
 
 [![Network Threat Visualization](https://img.shields.io/badge/View%20Repository-Network%20Threat%20Visualization-21262D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s3rt4c/neo4j_project)
 
----
-
-## 🧰 Tools & Technologies
-
-<div align="center">
-
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![BloodHound](https://img.shields.io/badge/BloodHound-0D1117?style=for-the-badge)
-![NetExec](https://img.shields.io/badge/NetExec-0D1117?style=for-the-badge)
-![Impacket](https://img.shields.io/badge/Impacket-0D1117?style=for-the-badge)
-
-<br><br>
-
-[![My Skills](https://skillicons.dev/icons?i=python,bash,linux,windows,git,docker,js,php&theme=dark&perline=8)](https://skillicons.dev)
-
-</div>
 
 ---
 
