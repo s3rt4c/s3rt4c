@@ -46,13 +46,17 @@ A cybersecurity project focused on processing and analyzing threat-related data 
 
 ---
 
-### 🕸️ Network Threat Visualization
+### 🕸️ Network Traffic & Security Alert Analysis
 
-**Snort 3 • Python • Neo4j**
+**Python • Neo4j • FastAPI • React • TypeScript • Cytoscape.js**
 
-A graph-based network security project originating from my internship work at **Cyberwise**, focused on processing security alerts and visualizing relationships between network entities.
+Originally developed during my Cyberwise internship and later re-engineered into a full-stack network security analytics project. It transforms network traffic exports and IDS alert facts into a Neo4j property graph with deterministic flow aggregation, a typed FastAPI API, and an interactive React + Cytoscape.js investigation dashboard.
 
-[![Network Threat Visualization](https://img.shields.io/badge/View%20Repository-Network%20Threat%20Visualization-21262D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s3rt4c/neo4j_project)
+- Deterministic directional flow aggregation and graph-based traffic analysis
+- Interactive endpoint, communication, and traffic-alert correlation investigation
+- Automated frontend/backend testing with live Neo4j integration in CI
+
+[![Network Traffic & Security Alert Analysis](https://img.shields.io/badge/View%20Repository-Network%20Traffic%20%26%20Security%20Alert%20Analysis-21262D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s3rt4c/neo4j_project)
 
 
 ---
